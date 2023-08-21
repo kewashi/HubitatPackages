@@ -1,0 +1,13 @@
+{
+	"author": "Ken Washington",
+	"gitHubUrl": "https://github.com/kewashi/",
+	"packages": [
+		{
+			"name": "HousePanel",
+			"category": "Control",
+			"tags": [ "Dashboard", "Panel" ],
+			"location": "https://raw.githubusercontent.com/kewashi/HousePanel/master/packageManifest.json",
+			"description": "Highly flexible smart dashboard app with integrated rule engine"
+		}
+	]	
+}
