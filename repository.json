@@ -1,13 +1,14 @@
 {
 	"author": "Ken Washington",
 	"gitHubUrl": "https://github.com/kewashi/",
+	"payPalUrl": "https://paypal.me/KenWash?country.x=US&locale.x=en_US",
 	"packages": [
 		{
 			"name": "HousePanel",
-			"category": "Control",
-			"tags": [ "Dashboard", "Panel" ],
+			"category": "Utility",
+			"tags": [ "Dashboards" ],
 			"location": "https://raw.githubusercontent.com/kewashi/HousePanel/master/packageManifest.json",
-			"description": "Highly flexible smart dashboard app with integrated rule engine"
+			"description": "Highly flexible dashboard with HE and ISY hub support and an integrated rule engine"
 		}
 	]	
 }
